@@ -14,7 +14,7 @@ Practicar flujo de trabajo con Git en equipo: clonado, ramas por persona, commit
 
 ## Tareas por alumno (generan conflictos y cambios reales)
 
-> Haz los pasos en el orden indicado. No hagas `git pull` de `main` hasta terminar los 3 primeros commits de tu rama: así fuerza conflictos al fusionar.
+> Haz los pasos en el orden indicado. No hagas `git pull` de `main` hasta terminar los 3 primeros commits individuales de tu rama: así fuerza conflictos al fusionar.
 
 ### Tareas comunes
 
