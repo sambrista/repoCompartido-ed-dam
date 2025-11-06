@@ -1,5 +1,3 @@
-Aquí tienes un enunciado listo para clase. Está pensado para 4 alumnos (A, B, C y D), usando **Git y GitHub** en un solo repositorio, **sin pull requests** (merge directo a `main`) y con **conflictos garantizados**.
-
 # 🧩 Práctica: Colaboración con ramas y fusiones (con conflictos) en GitHub
 
 ## Objetivo
