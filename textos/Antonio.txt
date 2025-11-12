@@ -1,1 +1,3 @@
 Color favorito: amarillo
+
+Deporte favorito: boxeo
