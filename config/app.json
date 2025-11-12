@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
   "modo": "borrador",
-  "puerto": 3000,
-  "caracteristicas": ["base"]
+  "puerto": 8000,
+  "caracteristicas": ["base", "cli"]
 }

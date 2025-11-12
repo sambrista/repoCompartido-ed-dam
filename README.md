@@ -1,6 +1,6 @@
 # Proyecto Colaborativo
-Estado: borrador
-Lema: _Por definir_
+Estado: progreso
+Lema: _Haciendo equipo_
 Contadores:
 - líneas totales: 0
 - colaboradores: 0
