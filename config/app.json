@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "modo": "borrador",
-  "puerto": 8000,
+  "modo": "produccion",
+  "puerto": 8080,
   "caracteristicas": ["base","cli"]
 }

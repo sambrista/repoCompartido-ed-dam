@@ -1,6 +1,6 @@
 # Proyecto Colaborativo
-Estado: en progreso
-Lema: _Haciendo equipo_
+Estado: listo para revisión
+Lema: _Iterar y mejorar_
 Contadores:
 - líneas totales: 0
 - colaboradores: 0
