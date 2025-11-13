@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "modo": "borrador",
+  "modo": "produccion",
   "puerto": 3000,
-  "caracteristicas": ["base"]
+  "caracteristicas": ["abes"]
 }
