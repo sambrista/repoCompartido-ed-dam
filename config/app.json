@@ -1,6 +1,7 @@
 {
   "version": "0.1.0",
-  "modo": "borrador",
-  "puerto": 3000,
-  "caracteristicas": ["base"]
+  "modo": "produccion",
+  "puerto": 8080,
+  "caracteristicas": ["base","cli"],
+  "entorno": "desarrollo"
 }
